@@ -89,6 +89,4 @@ decision-making.
 -   PDF export reports
 -   Cloud backup system
 
-## 👨‍💻 Developer Notes
 
-Customizable for POS, HRM, Accounting systems.
