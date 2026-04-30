@@ -78,11 +78,6 @@ decision-making.
         DB_USERNAME=root
         DB_PASSWORD=
         Step 4: Run Project
-        php artisan serve
-
-3.  Configure environment
-
--   Update DB credentials
 
 4.  Run project
 
