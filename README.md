@@ -83,10 +83,5 @@ decision-making.
 
 -   Open in browser: http://localhost/project-folder
 
-## 📈 Future Improvements
-
--   Mobile app version
--   PDF export reports
--   Cloud backup system
 
 
