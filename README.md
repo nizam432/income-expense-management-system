@@ -44,7 +44,7 @@ decision-making.
 ## ⚙️ Installation Guide
 
 1.  Clone repository git clone
-    https://github.com/your-username/income-expense-management-system.git
+    https://github.com/nizam432/income-expense-management-system.git
 
 2.  Import database
 
