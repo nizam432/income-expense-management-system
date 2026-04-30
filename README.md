@@ -24,11 +24,20 @@ decision-making.
 -   Edit & delete expense records
 -   Track total spending
 
-### 📊 Reports & Dashboard
+### 📊 Dashboard
+- Total Income vs Expense
+- Profit / Loss overview
+- Recent transactions summary
 
--   Total income vs expense overview
--   Monthly/weekly reports
--   Profit/Loss calculation
+### 🧾 Reports
+- Date range filtering
+- Category-wise reports
+- Financial summaries
+
+### 🔐 Authentication & Access Control
+- Login / Registration system
+- Role-based access (Admin/User)
+- Secure middleware protection
 
 ### 🔎 Search & Filter
 
