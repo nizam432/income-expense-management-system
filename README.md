@@ -55,10 +55,30 @@ decision-making.
 1.  Clone repository git clone
     https://github.com/nizam432/income-expense-management-system.git
 
-2.  Import database
 
--   Create MySQL database
--   Import database.sql file
+2. Database Setup
+
+    Follow the steps below to import the database:
+
+        Step 1: Create Database
+        
+        Create a new database in phpMyAdmin (e.g., income_expense_db)
+        
+        Step 2: Import SQL File
+        Open phpMyAdmin
+        Select your database
+        Click on Import
+        Choose the database.sql file
+        Click Go
+        Step 3: Configure Environment
+        
+        Update your .env file:
+        
+        DB_DATABASE=income_expense_db
+        DB_USERNAME=root
+        DB_PASSWORD=
+        Step 4: Run Project
+        php artisan serve
 
 3.  Configure environment
 
