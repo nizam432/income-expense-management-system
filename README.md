@@ -80,6 +80,8 @@ This software is designed to simplify financial decision-making and improve mone
 * CSS3
 * JavaScript
 * Bootstrap
+* Ajax
+* Jaquery
 
 ### Backend
 
