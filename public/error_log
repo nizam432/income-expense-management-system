@@ -1,0 +1,841 @@
+[16-Nov-2025 09:52:42 UTC] PHP Fatal error:  Uncaught RuntimeException: A facade root has not been set. in /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php:360
+Stack trace:
+#0 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/RegisterErrorViewPaths.php(17): Illuminate\Support\Facades\Facade::__callStatic()
+#1 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(947): Illuminate\Foundation\Exceptions\RegisterErrorViewPaths->__invoke()
+#2 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(922): Illuminate\Foundation\Exceptions\Handler->registerErrorViewPaths()
+#3 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(847): Illuminate\Foundation\Exceptions\Handler->renderHttpException()
+#4 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(738): Illuminate\Foundation\Exceptions\Handler->prepareResponse()
+#5 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(626): Illuminate\Foundation\Exceptions\Handler->renderExceptionResponse()
+#6 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(574): Illuminate\Foundation\Exceptions\Handler->render()
+#7 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(148): Illuminate\Foundation\Http\Kernel->renderException()
+#8 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(1220): Illuminate\Foundation\Http\Kernel->handle()
+#9 /home/amarsmsb/expense.innovativeitbd.com/public/index.php(20): Illuminate\Foundation\Application->handleRequest()
+#10 {main}
+  thrown in /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php on line 360
+[16-Nov-2025 09:52:53 UTC] PHP Fatal error:  Uncaught RuntimeException: A facade root has not been set. in /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php:360
+Stack trace:
+#0 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/RegisterErrorViewPaths.php(17): Illuminate\Support\Facades\Facade::__callStatic()
+#1 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(947): Illuminate\Foundation\Exceptions\RegisterErrorViewPaths->__invoke()
+#2 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(922): Illuminate\Foundation\Exceptions\Handler->registerErrorViewPaths()
+#3 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(847): Illuminate\Foundation\Exceptions\Handler->renderHttpException()
+#4 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(738): Illuminate\Foundation\Exceptions\Handler->prepareResponse()
+#5 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(626): Illuminate\Foundation\Exceptions\Handler->renderExceptionResponse()
+#6 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(574): Illuminate\Foundation\Exceptions\Handler->render()
+#7 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(148): Illuminate\Foundation\Http\Kernel->renderException()
+#8 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(1220): Illuminate\Foundation\Http\Kernel->handle()
+#9 /home/amarsmsb/expense.innovativeitbd.com/public/index.php(20): Illuminate\Foundation\Application->handleRequest()
+#10 {main}
+  thrown in /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php on line 360
+[16-Nov-2025 09:53:22 UTC] PHP Fatal error:  Uncaught RuntimeException: A facade root has not been set. in /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php:360
+Stack trace:
+#0 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/RegisterErrorViewPaths.php(17): Illuminate\Support\Facades\Facade::__callStatic()
+#1 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(947): Illuminate\Foundation\Exceptions\RegisterErrorViewPaths->__invoke()
+#2 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(922): Illuminate\Foundation\Exceptions\Handler->registerErrorViewPaths()
+#3 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(847): Illuminate\Foundation\Exceptions\Handler->renderHttpException()
+#4 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(738): Illuminate\Foundation\Exceptions\Handler->prepareResponse()
+#5 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(626): Illuminate\Foundation\Exceptions\Handler->renderExceptionResponse()
+#6 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(574): Illuminate\Foundation\Exceptions\Handler->render()
+#7 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(148): Illuminate\Foundation\Http\Kernel->renderException()
+#8 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(1220): Illuminate\Foundation\Http\Kernel->handle()
+#9 /home/amarsmsb/expense.innovativeitbd.com/public/index.php(20): Illuminate\Foundation\Application->handleRequest()
+#10 {main}
+  thrown in /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php on line 360
+[16-Nov-2025 10:05:20 UTC] PHP Fatal error:  Uncaught RuntimeException: A facade root has not been set. in /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php:360
+Stack trace:
+#0 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/RegisterErrorViewPaths.php(17): Illuminate\Support\Facades\Facade::__callStatic()
+#1 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(947): Illuminate\Foundation\Exceptions\RegisterErrorViewPaths->__invoke()
+#2 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(922): Illuminate\Foundation\Exceptions\Handler->registerErrorViewPaths()
+#3 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(847): Illuminate\Foundation\Exceptions\Handler->renderHttpException()
+#4 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(738): Illuminate\Foundation\Exceptions\Handler->prepareResponse()
+#5 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(626): Illuminate\Foundation\Exceptions\Handler->renderExceptionResponse()
+#6 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(574): Illuminate\Foundation\Exceptions\Handler->render()
+#7 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(148): Illuminate\Foundation\Http\Kernel->renderException()
+#8 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(1220): Illuminate\Foundation\Http\Kernel->handle()
+#9 /home/amarsmsb/expense.innovativeitbd.com/public/index.php(20): Illuminate\Foundation\Application->handleRequest()
+#10 {main}
+  thrown in /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php on line 360
+[16-Nov-2025 10:05:43 UTC] PHP Fatal error:  Uncaught RuntimeException: A facade root has not been set. in /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php:360
+Stack trace:
+#0 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/RegisterErrorViewPaths.php(17): Illuminate\Support\Facades\Facade::__callStatic()
+#1 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(947): Illuminate\Foundation\Exceptions\RegisterErrorViewPaths->__invoke()
+#2 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(922): Illuminate\Foundation\Exceptions\Handler->registerErrorViewPaths()
+#3 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(847): Illuminate\Foundation\Exceptions\Handler->renderHttpException()
+#4 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(738): Illuminate\Foundation\Exceptions\Handler->prepareResponse()
+#5 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(626): Illuminate\Foundation\Exceptions\Handler->renderExceptionResponse()
+#6 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(574): Illuminate\Foundation\Exceptions\Handler->render()
+#7 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(148): Illuminate\Foundation\Http\Kernel->renderException()
+#8 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(1220): Illuminate\Foundation\Http\Kernel->handle()
+#9 /home/amarsmsb/expense.innovativeitbd.com/public/index.php(20): Illuminate\Foundation\Application->handleRequest()
+#10 {main}
+  thrown in /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php on line 360
+[16-Nov-2025 10:06:47 UTC] PHP Fatal error:  Uncaught RuntimeException: A facade root has not been set. in /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php:360
+Stack trace:
+#0 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/RegisterErrorViewPaths.php(17): Illuminate\Support\Facades\Facade::__callStatic()
+#1 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(947): Illuminate\Foundation\Exceptions\RegisterErrorViewPaths->__invoke()
+#2 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(922): Illuminate\Foundation\Exceptions\Handler->registerErrorViewPaths()
+#3 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(847): Illuminate\Foundation\Exceptions\Handler->renderHttpException()
+#4 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(738): Illuminate\Foundation\Exceptions\Handler->prepareResponse()
+#5 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(626): Illuminate\Foundation\Exceptions\Handler->renderExceptionResponse()
+#6 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(574): Illuminate\Foundation\Exceptions\Handler->render()
+#7 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(148): Illuminate\Foundation\Http\Kernel->renderException()
+#8 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(1220): Illuminate\Foundation\Http\Kernel->handle()
+#9 /home/amarsmsb/expense.innovativeitbd.com/public/index.php(20): Illuminate\Foundation\Application->handleRequest()
+#10 {main}
+  thrown in /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php on line 360
+[17-Nov-2025 04:30:35 UTC] PHP Fatal error:  Uncaught RuntimeException: A facade root has not been set. in /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php:360
+Stack trace:
+#0 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/RegisterErrorViewPaths.php(17): Illuminate\Support\Facades\Facade::__callStatic()
+#1 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(947): Illuminate\Foundation\Exceptions\RegisterErrorViewPaths->__invoke()
+#2 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(922): Illuminate\Foundation\Exceptions\Handler->registerErrorViewPaths()
+#3 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(847): Illuminate\Foundation\Exceptions\Handler->renderHttpException()
+#4 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(738): Illuminate\Foundation\Exceptions\Handler->prepareResponse()
+#5 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(626): Illuminate\Foundation\Exceptions\Handler->renderExceptionResponse()
+#6 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(574): Illuminate\Foundation\Exceptions\Handler->render()
+#7 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(148): Illuminate\Foundation\Http\Kernel->renderException()
+#8 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(1220): Illuminate\Foundation\Http\Kernel->handle()
+#9 /home/amarsmsb/expense.innovativeitbd.com/public/index.php(20): Illuminate\Foundation\Application->handleRequest()
+#10 {main}
+  thrown in /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php on line 360
+[17-Nov-2025 04:30:38 UTC] PHP Fatal error:  Uncaught RuntimeException: A facade root has not been set. in /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php:360
+Stack trace:
+#0 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/RegisterErrorViewPaths.php(17): Illuminate\Support\Facades\Facade::__callStatic()
+#1 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(947): Illuminate\Foundation\Exceptions\RegisterErrorViewPaths->__invoke()
+#2 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(922): Illuminate\Foundation\Exceptions\Handler->registerErrorViewPaths()
+#3 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(847): Illuminate\Foundation\Exceptions\Handler->renderHttpException()
+#4 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(738): Illuminate\Foundation\Exceptions\Handler->prepareResponse()
+#5 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(626): Illuminate\Foundation\Exceptions\Handler->renderExceptionResponse()
+#6 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(574): Illuminate\Foundation\Exceptions\Handler->render()
+#7 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(148): Illuminate\Foundation\Http\Kernel->renderException()
+#8 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(1220): Illuminate\Foundation\Http\Kernel->handle()
+#9 /home/amarsmsb/expense.innovativeitbd.com/public/index.php(20): Illuminate\Foundation\Application->handleRequest()
+#10 {main}
+  thrown in /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php on line 360
+[17-Nov-2025 04:30:42 UTC] PHP Fatal error:  Uncaught RuntimeException: A facade root has not been set. in /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php:360
+Stack trace:
+#0 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/RegisterErrorViewPaths.php(17): Illuminate\Support\Facades\Facade::__callStatic()
+#1 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(947): Illuminate\Foundation\Exceptions\RegisterErrorViewPaths->__invoke()
+#2 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(922): Illuminate\Foundation\Exceptions\Handler->registerErrorViewPaths()
+#3 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(847): Illuminate\Foundation\Exceptions\Handler->renderHttpException()
+#4 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(738): Illuminate\Foundation\Exceptions\Handler->prepareResponse()
+#5 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(626): Illuminate\Foundation\Exceptions\Handler->renderExceptionResponse()
+#6 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(574): Illuminate\Foundation\Exceptions\Handler->render()
+#7 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(148): Illuminate\Foundation\Http\Kernel->renderException()
+#8 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(1220): Illuminate\Foundation\Http\Kernel->handle()
+#9 /home/amarsmsb/expense.innovativeitbd.com/public/index.php(20): Illuminate\Foundation\Application->handleRequest()
+#10 {main}
+  thrown in /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php on line 360
+[17-Nov-2025 04:30:43 UTC] PHP Fatal error:  Uncaught RuntimeException: A facade root has not been set. in /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php:360
+Stack trace:
+#0 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/RegisterErrorViewPaths.php(17): Illuminate\Support\Facades\Facade::__callStatic()
+#1 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(947): Illuminate\Foundation\Exceptions\RegisterErrorViewPaths->__invoke()
+#2 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(922): Illuminate\Foundation\Exceptions\Handler->registerErrorViewPaths()
+#3 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(847): Illuminate\Foundation\Exceptions\Handler->renderHttpException()
+#4 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(738): Illuminate\Foundation\Exceptions\Handler->prepareResponse()
+#5 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(626): Illuminate\Foundation\Exceptions\Handler->renderExceptionResponse()
+#6 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(574): Illuminate\Foundation\Exceptions\Handler->render()
+#7 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(148): Illuminate\Foundation\Http\Kernel->renderException()
+#8 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(1220): Illuminate\Foundation\Http\Kernel->handle()
+#9 /home/amarsmsb/expense.innovativeitbd.com/public/index.php(20): Illuminate\Foundation\Application->handleRequest()
+#10 {main}
+  thrown in /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php on line 360
+[17-Nov-2025 04:30:58 UTC] PHP Fatal error:  Uncaught RuntimeException: A facade root has not been set. in /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php:360
+Stack trace:
+#0 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/RegisterErrorViewPaths.php(17): Illuminate\Support\Facades\Facade::__callStatic()
+#1 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(947): Illuminate\Foundation\Exceptions\RegisterErrorViewPaths->__invoke()
+#2 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(922): Illuminate\Foundation\Exceptions\Handler->registerErrorViewPaths()
+#3 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(847): Illuminate\Foundation\Exceptions\Handler->renderHttpException()
+#4 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(738): Illuminate\Foundation\Exceptions\Handler->prepareResponse()
+#5 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(626): Illuminate\Foundation\Exceptions\Handler->renderExceptionResponse()
+#6 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(574): Illuminate\Foundation\Exceptions\Handler->render()
+#7 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(148): Illuminate\Foundation\Http\Kernel->renderException()
+#8 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(1220): Illuminate\Foundation\Http\Kernel->handle()
+#9 /home/amarsmsb/expense.innovativeitbd.com/public/index.php(20): Illuminate\Foundation\Application->handleRequest()
+#10 {main}
+  thrown in /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php on line 360
+[17-Nov-2025 04:31:24 UTC] PHP Fatal error:  Uncaught RuntimeException: A facade root has not been set. in /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php:360
+Stack trace:
+#0 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/RegisterErrorViewPaths.php(17): Illuminate\Support\Facades\Facade::__callStatic()
+#1 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(947): Illuminate\Foundation\Exceptions\RegisterErrorViewPaths->__invoke()
+#2 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(922): Illuminate\Foundation\Exceptions\Handler->registerErrorViewPaths()
+#3 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(847): Illuminate\Foundation\Exceptions\Handler->renderHttpException()
+#4 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(738): Illuminate\Foundation\Exceptions\Handler->prepareResponse()
+#5 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(626): Illuminate\Foundation\Exceptions\Handler->renderExceptionResponse()
+#6 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(574): Illuminate\Foundation\Exceptions\Handler->render()
+#7 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(148): Illuminate\Foundation\Http\Kernel->renderException()
+#8 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(1220): Illuminate\Foundation\Http\Kernel->handle()
+#9 /home/amarsmsb/expense.innovativeitbd.com/public/index.php(20): Illuminate\Foundation\Application->handleRequest()
+#10 {main}
+  thrown in /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php on line 360
+[17-Nov-2025 04:37:03 UTC] PHP Fatal error:  Uncaught RuntimeException: A facade root has not been set. in /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php:360
+Stack trace:
+#0 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/RegisterErrorViewPaths.php(17): Illuminate\Support\Facades\Facade::__callStatic()
+#1 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(947): Illuminate\Foundation\Exceptions\RegisterErrorViewPaths->__invoke()
+#2 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(922): Illuminate\Foundation\Exceptions\Handler->registerErrorViewPaths()
+#3 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(847): Illuminate\Foundation\Exceptions\Handler->renderHttpException()
+#4 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(738): Illuminate\Foundation\Exceptions\Handler->prepareResponse()
+#5 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(626): Illuminate\Foundation\Exceptions\Handler->renderExceptionResponse()
+#6 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(574): Illuminate\Foundation\Exceptions\Handler->render()
+#7 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(148): Illuminate\Foundation\Http\Kernel->renderException()
+#8 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(1220): Illuminate\Foundation\Http\Kernel->handle()
+#9 /home/amarsmsb/expense.innovativeitbd.com/public/index.php(20): Illuminate\Foundation\Application->handleRequest()
+#10 {main}
+  thrown in /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php on line 360
+[17-Nov-2025 04:40:38 UTC] PHP Fatal error:  Uncaught RuntimeException: A facade root has not been set. in /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php:360
+Stack trace:
+#0 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/RegisterErrorViewPaths.php(17): Illuminate\Support\Facades\Facade::__callStatic()
+#1 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(947): Illuminate\Foundation\Exceptions\RegisterErrorViewPaths->__invoke()
+#2 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(922): Illuminate\Foundation\Exceptions\Handler->registerErrorViewPaths()
+#3 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(847): Illuminate\Foundation\Exceptions\Handler->renderHttpException()
+#4 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(738): Illuminate\Foundation\Exceptions\Handler->prepareResponse()
+#5 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(626): Illuminate\Foundation\Exceptions\Handler->renderExceptionResponse()
+#6 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(574): Illuminate\Foundation\Exceptions\Handler->render()
+#7 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(148): Illuminate\Foundation\Http\Kernel->renderException()
+#8 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(1220): Illuminate\Foundation\Http\Kernel->handle()
+#9 /home/amarsmsb/expense.innovativeitbd.com/public/index.php(20): Illuminate\Foundation\Application->handleRequest()
+#10 {main}
+  thrown in /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php on line 360
+[17-Nov-2025 04:40:45 UTC] PHP Fatal error:  Uncaught RuntimeException: A facade root has not been set. in /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php:360
+Stack trace:
+#0 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/RegisterErrorViewPaths.php(17): Illuminate\Support\Facades\Facade::__callStatic()
+#1 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(947): Illuminate\Foundation\Exceptions\RegisterErrorViewPaths->__invoke()
+#2 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(922): Illuminate\Foundation\Exceptions\Handler->registerErrorViewPaths()
+#3 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(847): Illuminate\Foundation\Exceptions\Handler->renderHttpException()
+#4 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(738): Illuminate\Foundation\Exceptions\Handler->prepareResponse()
+#5 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(626): Illuminate\Foundation\Exceptions\Handler->renderExceptionResponse()
+#6 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(574): Illuminate\Foundation\Exceptions\Handler->render()
+#7 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(148): Illuminate\Foundation\Http\Kernel->renderException()
+#8 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(1220): Illuminate\Foundation\Http\Kernel->handle()
+#9 /home/amarsmsb/expense.innovativeitbd.com/public/index.php(20): Illuminate\Foundation\Application->handleRequest()
+#10 {main}
+  thrown in /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php on line 360
+[17-Nov-2025 04:40:53 UTC] PHP Fatal error:  Uncaught RuntimeException: A facade root has not been set. in /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php:360
+Stack trace:
+#0 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/RegisterErrorViewPaths.php(17): Illuminate\Support\Facades\Facade::__callStatic()
+#1 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(947): Illuminate\Foundation\Exceptions\RegisterErrorViewPaths->__invoke()
+#2 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(922): Illuminate\Foundation\Exceptions\Handler->registerErrorViewPaths()
+#3 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(847): Illuminate\Foundation\Exceptions\Handler->renderHttpException()
+#4 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(738): Illuminate\Foundation\Exceptions\Handler->prepareResponse()
+#5 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(626): Illuminate\Foundation\Exceptions\Handler->renderExceptionResponse()
+#6 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(574): Illuminate\Foundation\Exceptions\Handler->render()
+#7 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(148): Illuminate\Foundation\Http\Kernel->renderException()
+#8 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(1220): Illuminate\Foundation\Http\Kernel->handle()
+#9 /home/amarsmsb/expense.innovativeitbd.com/public/index.php(20): Illuminate\Foundation\Application->handleRequest()
+#10 {main}
+  thrown in /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php on line 360
+[17-Nov-2025 04:41:38 UTC] PHP Fatal error:  Uncaught RuntimeException: A facade root has not been set. in /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php:360
+Stack trace:
+#0 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/RegisterErrorViewPaths.php(17): Illuminate\Support\Facades\Facade::__callStatic()
+#1 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(947): Illuminate\Foundation\Exceptions\RegisterErrorViewPaths->__invoke()
+#2 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(922): Illuminate\Foundation\Exceptions\Handler->registerErrorViewPaths()
+#3 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(847): Illuminate\Foundation\Exceptions\Handler->renderHttpException()
+#4 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(738): Illuminate\Foundation\Exceptions\Handler->prepareResponse()
+#5 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(626): Illuminate\Foundation\Exceptions\Handler->renderExceptionResponse()
+#6 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(574): Illuminate\Foundation\Exceptions\Handler->render()
+#7 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(148): Illuminate\Foundation\Http\Kernel->renderException()
+#8 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(1220): Illuminate\Foundation\Http\Kernel->handle()
+#9 /home/amarsmsb/expense.innovativeitbd.com/public/index.php(20): Illuminate\Foundation\Application->handleRequest()
+#10 {main}
+  thrown in /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php on line 360
+[17-Nov-2025 04:46:40 UTC] PHP Fatal error:  Uncaught RuntimeException: A facade root has not been set. in /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php:360
+Stack trace:
+#0 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/RegisterErrorViewPaths.php(17): Illuminate\Support\Facades\Facade::__callStatic()
+#1 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(947): Illuminate\Foundation\Exceptions\RegisterErrorViewPaths->__invoke()
+#2 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(922): Illuminate\Foundation\Exceptions\Handler->registerErrorViewPaths()
+#3 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(847): Illuminate\Foundation\Exceptions\Handler->renderHttpException()
+#4 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(738): Illuminate\Foundation\Exceptions\Handler->prepareResponse()
+#5 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(626): Illuminate\Foundation\Exceptions\Handler->renderExceptionResponse()
+#6 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(574): Illuminate\Foundation\Exceptions\Handler->render()
+#7 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(148): Illuminate\Foundation\Http\Kernel->renderException()
+#8 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(1220): Illuminate\Foundation\Http\Kernel->handle()
+#9 /home/amarsmsb/expense.innovativeitbd.com/public/index.php(20): Illuminate\Foundation\Application->handleRequest()
+#10 {main}
+  thrown in /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php on line 360
+[17-Nov-2025 04:46:58 UTC] PHP Fatal error:  Uncaught RuntimeException: A facade root has not been set. in /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php:360
+Stack trace:
+#0 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/RegisterErrorViewPaths.php(17): Illuminate\Support\Facades\Facade::__callStatic()
+#1 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(947): Illuminate\Foundation\Exceptions\RegisterErrorViewPaths->__invoke()
+#2 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(922): Illuminate\Foundation\Exceptions\Handler->registerErrorViewPaths()
+#3 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(847): Illuminate\Foundation\Exceptions\Handler->renderHttpException()
+#4 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(738): Illuminate\Foundation\Exceptions\Handler->prepareResponse()
+#5 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(626): Illuminate\Foundation\Exceptions\Handler->renderExceptionResponse()
+#6 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(574): Illuminate\Foundation\Exceptions\Handler->render()
+#7 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(148): Illuminate\Foundation\Http\Kernel->renderException()
+#8 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(1220): Illuminate\Foundation\Http\Kernel->handle()
+#9 /home/amarsmsb/expense.innovativeitbd.com/public/index.php(20): Illuminate\Foundation\Application->handleRequest()
+#10 {main}
+  thrown in /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php on line 360
+[17-Nov-2025 04:47:09 UTC] PHP Fatal error:  Uncaught RuntimeException: A facade root has not been set. in /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php:360
+Stack trace:
+#0 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/RegisterErrorViewPaths.php(17): Illuminate\Support\Facades\Facade::__callStatic()
+#1 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(947): Illuminate\Foundation\Exceptions\RegisterErrorViewPaths->__invoke()
+#2 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(922): Illuminate\Foundation\Exceptions\Handler->registerErrorViewPaths()
+#3 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(847): Illuminate\Foundation\Exceptions\Handler->renderHttpException()
+#4 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(738): Illuminate\Foundation\Exceptions\Handler->prepareResponse()
+#5 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(626): Illuminate\Foundation\Exceptions\Handler->renderExceptionResponse()
+#6 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(574): Illuminate\Foundation\Exceptions\Handler->render()
+#7 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(148): Illuminate\Foundation\Http\Kernel->renderException()
+#8 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(1220): Illuminate\Foundation\Http\Kernel->handle()
+#9 /home/amarsmsb/expense.innovativeitbd.com/public/index.php(20): Illuminate\Foundation\Application->handleRequest()
+#10 {main}
+  thrown in /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php on line 360
+[17-Nov-2025 04:47:14 UTC] PHP Fatal error:  Uncaught RuntimeException: A facade root has not been set. in /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php:360
+Stack trace:
+#0 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/RegisterErrorViewPaths.php(17): Illuminate\Support\Facades\Facade::__callStatic()
+#1 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(947): Illuminate\Foundation\Exceptions\RegisterErrorViewPaths->__invoke()
+#2 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(922): Illuminate\Foundation\Exceptions\Handler->registerErrorViewPaths()
+#3 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(847): Illuminate\Foundation\Exceptions\Handler->renderHttpException()
+#4 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(738): Illuminate\Foundation\Exceptions\Handler->prepareResponse()
+#5 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(626): Illuminate\Foundation\Exceptions\Handler->renderExceptionResponse()
+#6 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(574): Illuminate\Foundation\Exceptions\Handler->render()
+#7 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(148): Illuminate\Foundation\Http\Kernel->renderException()
+#8 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(1220): Illuminate\Foundation\Http\Kernel->handle()
+#9 /home/amarsmsb/expense.innovativeitbd.com/public/index.php(20): Illuminate\Foundation\Application->handleRequest()
+#10 {main}
+  thrown in /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php on line 360
+[17-Nov-2025 04:47:16 UTC] PHP Fatal error:  Uncaught RuntimeException: A facade root has not been set. in /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php:360
+Stack trace:
+#0 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/RegisterErrorViewPaths.php(17): Illuminate\Support\Facades\Facade::__callStatic()
+#1 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(947): Illuminate\Foundation\Exceptions\RegisterErrorViewPaths->__invoke()
+#2 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(922): Illuminate\Foundation\Exceptions\Handler->registerErrorViewPaths()
+#3 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(847): Illuminate\Foundation\Exceptions\Handler->renderHttpException()
+#4 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(738): Illuminate\Foundation\Exceptions\Handler->prepareResponse()
+#5 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(626): Illuminate\Foundation\Exceptions\Handler->renderExceptionResponse()
+#6 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(574): Illuminate\Foundation\Exceptions\Handler->render()
+#7 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(148): Illuminate\Foundation\Http\Kernel->renderException()
+#8 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(1220): Illuminate\Foundation\Http\Kernel->handle()
+#9 /home/amarsmsb/expense.innovativeitbd.com/public/index.php(20): Illuminate\Foundation\Application->handleRequest()
+#10 {main}
+  thrown in /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php on line 360
+[17-Nov-2025 04:47:25 UTC] PHP Fatal error:  Uncaught RuntimeException: A facade root has not been set. in /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php:360
+Stack trace:
+#0 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/RegisterErrorViewPaths.php(17): Illuminate\Support\Facades\Facade::__callStatic()
+#1 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(947): Illuminate\Foundation\Exceptions\RegisterErrorViewPaths->__invoke()
+#2 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(922): Illuminate\Foundation\Exceptions\Handler->registerErrorViewPaths()
+#3 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(847): Illuminate\Foundation\Exceptions\Handler->renderHttpException()
+#4 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(738): Illuminate\Foundation\Exceptions\Handler->prepareResponse()
+#5 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(626): Illuminate\Foundation\Exceptions\Handler->renderExceptionResponse()
+#6 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(574): Illuminate\Foundation\Exceptions\Handler->render()
+#7 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(148): Illuminate\Foundation\Http\Kernel->renderException()
+#8 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(1220): Illuminate\Foundation\Http\Kernel->handle()
+#9 /home/amarsmsb/expense.innovativeitbd.com/public/index.php(20): Illuminate\Foundation\Application->handleRequest()
+#10 {main}
+  thrown in /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php on line 360
+[17-Nov-2025 04:47:26 UTC] PHP Fatal error:  Uncaught RuntimeException: A facade root has not been set. in /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php:360
+Stack trace:
+#0 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/RegisterErrorViewPaths.php(17): Illuminate\Support\Facades\Facade::__callStatic()
+#1 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(947): Illuminate\Foundation\Exceptions\RegisterErrorViewPaths->__invoke()
+#2 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(922): Illuminate\Foundation\Exceptions\Handler->registerErrorViewPaths()
+#3 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(847): Illuminate\Foundation\Exceptions\Handler->renderHttpException()
+#4 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(738): Illuminate\Foundation\Exceptions\Handler->prepareResponse()
+#5 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(626): Illuminate\Foundation\Exceptions\Handler->renderExceptionResponse()
+#6 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(574): Illuminate\Foundation\Exceptions\Handler->render()
+#7 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(148): Illuminate\Foundation\Http\Kernel->renderException()
+#8 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(1220): Illuminate\Foundation\Http\Kernel->handle()
+#9 /home/amarsmsb/expense.innovativeitbd.com/public/index.php(20): Illuminate\Foundation\Application->handleRequest()
+#10 {main}
+  thrown in /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php on line 360
+[17-Nov-2025 04:47:36 UTC] PHP Fatal error:  Uncaught RuntimeException: A facade root has not been set. in /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php:360
+Stack trace:
+#0 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/RegisterErrorViewPaths.php(17): Illuminate\Support\Facades\Facade::__callStatic()
+#1 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(947): Illuminate\Foundation\Exceptions\RegisterErrorViewPaths->__invoke()
+#2 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(922): Illuminate\Foundation\Exceptions\Handler->registerErrorViewPaths()
+#3 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(847): Illuminate\Foundation\Exceptions\Handler->renderHttpException()
+#4 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(738): Illuminate\Foundation\Exceptions\Handler->prepareResponse()
+#5 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(626): Illuminate\Foundation\Exceptions\Handler->renderExceptionResponse()
+#6 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(574): Illuminate\Foundation\Exceptions\Handler->render()
+#7 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(148): Illuminate\Foundation\Http\Kernel->renderException()
+#8 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(1220): Illuminate\Foundation\Http\Kernel->handle()
+#9 /home/amarsmsb/expense.innovativeitbd.com/public/index.php(20): Illuminate\Foundation\Application->handleRequest()
+#10 {main}
+  thrown in /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php on line 360
+[17-Nov-2025 05:10:08 UTC] PHP Fatal error:  Uncaught RuntimeException: A facade root has not been set. in /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php:360
+Stack trace:
+#0 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/RegisterErrorViewPaths.php(17): Illuminate\Support\Facades\Facade::__callStatic()
+#1 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(947): Illuminate\Foundation\Exceptions\RegisterErrorViewPaths->__invoke()
+#2 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(922): Illuminate\Foundation\Exceptions\Handler->registerErrorViewPaths()
+#3 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(847): Illuminate\Foundation\Exceptions\Handler->renderHttpException()
+#4 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(738): Illuminate\Foundation\Exceptions\Handler->prepareResponse()
+#5 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(626): Illuminate\Foundation\Exceptions\Handler->renderExceptionResponse()
+#6 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(574): Illuminate\Foundation\Exceptions\Handler->render()
+#7 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(148): Illuminate\Foundation\Http\Kernel->renderException()
+#8 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(1220): Illuminate\Foundation\Http\Kernel->handle()
+#9 /home/amarsmsb/expense.innovativeitbd.com/public/index.php(20): Illuminate\Foundation\Application->handleRequest()
+#10 {main}
+  thrown in /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php on line 360
+[17-Nov-2025 06:25:36 UTC] PHP Fatal error:  Uncaught RuntimeException: A facade root has not been set. in /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php:360
+Stack trace:
+#0 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/RegisterErrorViewPaths.php(17): Illuminate\Support\Facades\Facade::__callStatic()
+#1 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(947): Illuminate\Foundation\Exceptions\RegisterErrorViewPaths->__invoke()
+#2 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(922): Illuminate\Foundation\Exceptions\Handler->registerErrorViewPaths()
+#3 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(847): Illuminate\Foundation\Exceptions\Handler->renderHttpException()
+#4 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(738): Illuminate\Foundation\Exceptions\Handler->prepareResponse()
+#5 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(626): Illuminate\Foundation\Exceptions\Handler->renderExceptionResponse()
+#6 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(574): Illuminate\Foundation\Exceptions\Handler->render()
+#7 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(148): Illuminate\Foundation\Http\Kernel->renderException()
+#8 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(1220): Illuminate\Foundation\Http\Kernel->handle()
+#9 /home/amarsmsb/expense.innovativeitbd.com/public/index.php(20): Illuminate\Foundation\Application->handleRequest()
+#10 {main}
+  thrown in /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php on line 360
+[17-Nov-2025 06:25:46 UTC] PHP Fatal error:  Uncaught RuntimeException: A facade root has not been set. in /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php:360
+Stack trace:
+#0 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/RegisterErrorViewPaths.php(17): Illuminate\Support\Facades\Facade::__callStatic()
+#1 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(947): Illuminate\Foundation\Exceptions\RegisterErrorViewPaths->__invoke()
+#2 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(922): Illuminate\Foundation\Exceptions\Handler->registerErrorViewPaths()
+#3 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(847): Illuminate\Foundation\Exceptions\Handler->renderHttpException()
+#4 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(738): Illuminate\Foundation\Exceptions\Handler->prepareResponse()
+#5 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(626): Illuminate\Foundation\Exceptions\Handler->renderExceptionResponse()
+#6 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(574): Illuminate\Foundation\Exceptions\Handler->render()
+#7 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(148): Illuminate\Foundation\Http\Kernel->renderException()
+#8 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(1220): Illuminate\Foundation\Http\Kernel->handle()
+#9 /home/amarsmsb/expense.innovativeitbd.com/public/index.php(20): Illuminate\Foundation\Application->handleRequest()
+#10 {main}
+  thrown in /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php on line 360
+[17-Nov-2025 06:25:59 UTC] PHP Fatal error:  Uncaught RuntimeException: A facade root has not been set. in /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php:360
+Stack trace:
+#0 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/RegisterErrorViewPaths.php(17): Illuminate\Support\Facades\Facade::__callStatic()
+#1 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(947): Illuminate\Foundation\Exceptions\RegisterErrorViewPaths->__invoke()
+#2 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(922): Illuminate\Foundation\Exceptions\Handler->registerErrorViewPaths()
+#3 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(847): Illuminate\Foundation\Exceptions\Handler->renderHttpException()
+#4 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(738): Illuminate\Foundation\Exceptions\Handler->prepareResponse()
+#5 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(626): Illuminate\Foundation\Exceptions\Handler->renderExceptionResponse()
+#6 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(574): Illuminate\Foundation\Exceptions\Handler->render()
+#7 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(148): Illuminate\Foundation\Http\Kernel->renderException()
+#8 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(1220): Illuminate\Foundation\Http\Kernel->handle()
+#9 /home/amarsmsb/expense.innovativeitbd.com/public/index.php(20): Illuminate\Foundation\Application->handleRequest()
+#10 {main}
+  thrown in /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php on line 360
+[17-Nov-2025 06:26:06 UTC] PHP Fatal error:  Uncaught RuntimeException: A facade root has not been set. in /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php:360
+Stack trace:
+#0 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/RegisterErrorViewPaths.php(17): Illuminate\Support\Facades\Facade::__callStatic()
+#1 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(947): Illuminate\Foundation\Exceptions\RegisterErrorViewPaths->__invoke()
+#2 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(922): Illuminate\Foundation\Exceptions\Handler->registerErrorViewPaths()
+#3 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(847): Illuminate\Foundation\Exceptions\Handler->renderHttpException()
+#4 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(738): Illuminate\Foundation\Exceptions\Handler->prepareResponse()
+#5 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(626): Illuminate\Foundation\Exceptions\Handler->renderExceptionResponse()
+#6 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(574): Illuminate\Foundation\Exceptions\Handler->render()
+#7 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(148): Illuminate\Foundation\Http\Kernel->renderException()
+#8 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(1220): Illuminate\Foundation\Http\Kernel->handle()
+#9 /home/amarsmsb/expense.innovativeitbd.com/public/index.php(20): Illuminate\Foundation\Application->handleRequest()
+#10 {main}
+  thrown in /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php on line 360
+[17-Nov-2025 06:26:09 UTC] PHP Fatal error:  Uncaught RuntimeException: A facade root has not been set. in /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php:360
+Stack trace:
+#0 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/RegisterErrorViewPaths.php(17): Illuminate\Support\Facades\Facade::__callStatic()
+#1 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(947): Illuminate\Foundation\Exceptions\RegisterErrorViewPaths->__invoke()
+#2 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(922): Illuminate\Foundation\Exceptions\Handler->registerErrorViewPaths()
+#3 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(847): Illuminate\Foundation\Exceptions\Handler->renderHttpException()
+#4 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(738): Illuminate\Foundation\Exceptions\Handler->prepareResponse()
+#5 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(626): Illuminate\Foundation\Exceptions\Handler->renderExceptionResponse()
+#6 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(574): Illuminate\Foundation\Exceptions\Handler->render()
+#7 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(148): Illuminate\Foundation\Http\Kernel->renderException()
+#8 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(1220): Illuminate\Foundation\Http\Kernel->handle()
+#9 /home/amarsmsb/expense.innovativeitbd.com/public/index.php(20): Illuminate\Foundation\Application->handleRequest()
+#10 {main}
+  thrown in /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php on line 360
+[17-Nov-2025 06:26:11 UTC] PHP Fatal error:  Uncaught RuntimeException: A facade root has not been set. in /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php:360
+Stack trace:
+#0 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/RegisterErrorViewPaths.php(17): Illuminate\Support\Facades\Facade::__callStatic()
+#1 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(947): Illuminate\Foundation\Exceptions\RegisterErrorViewPaths->__invoke()
+#2 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(922): Illuminate\Foundation\Exceptions\Handler->registerErrorViewPaths()
+#3 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(847): Illuminate\Foundation\Exceptions\Handler->renderHttpException()
+#4 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(738): Illuminate\Foundation\Exceptions\Handler->prepareResponse()
+#5 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(626): Illuminate\Foundation\Exceptions\Handler->renderExceptionResponse()
+#6 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(574): Illuminate\Foundation\Exceptions\Handler->render()
+#7 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(148): Illuminate\Foundation\Http\Kernel->renderException()
+#8 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(1220): Illuminate\Foundation\Http\Kernel->handle()
+#9 /home/amarsmsb/expense.innovativeitbd.com/public/index.php(20): Illuminate\Foundation\Application->handleRequest()
+#10 {main}
+  thrown in /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php on line 360
+[17-Nov-2025 06:26:12 UTC] PHP Fatal error:  Uncaught RuntimeException: A facade root has not been set. in /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php:360
+Stack trace:
+#0 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/RegisterErrorViewPaths.php(17): Illuminate\Support\Facades\Facade::__callStatic()
+#1 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(947): Illuminate\Foundation\Exceptions\RegisterErrorViewPaths->__invoke()
+#2 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(922): Illuminate\Foundation\Exceptions\Handler->registerErrorViewPaths()
+#3 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(847): Illuminate\Foundation\Exceptions\Handler->renderHttpException()
+#4 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(738): Illuminate\Foundation\Exceptions\Handler->prepareResponse()
+#5 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(626): Illuminate\Foundation\Exceptions\Handler->renderExceptionResponse()
+#6 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(574): Illuminate\Foundation\Exceptions\Handler->render()
+#7 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(148): Illuminate\Foundation\Http\Kernel->renderException()
+#8 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(1220): Illuminate\Foundation\Http\Kernel->handle()
+#9 /home/amarsmsb/expense.innovativeitbd.com/public/index.php(20): Illuminate\Foundation\Application->handleRequest()
+#10 {main}
+  thrown in /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php on line 360
+[17-Nov-2025 06:26:14 UTC] PHP Fatal error:  Uncaught RuntimeException: A facade root has not been set. in /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php:360
+Stack trace:
+#0 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/RegisterErrorViewPaths.php(17): Illuminate\Support\Facades\Facade::__callStatic()
+#1 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(947): Illuminate\Foundation\Exceptions\RegisterErrorViewPaths->__invoke()
+#2 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(922): Illuminate\Foundation\Exceptions\Handler->registerErrorViewPaths()
+#3 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(847): Illuminate\Foundation\Exceptions\Handler->renderHttpException()
+#4 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(738): Illuminate\Foundation\Exceptions\Handler->prepareResponse()
+#5 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(626): Illuminate\Foundation\Exceptions\Handler->renderExceptionResponse()
+#6 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(574): Illuminate\Foundation\Exceptions\Handler->render()
+#7 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(148): Illuminate\Foundation\Http\Kernel->renderException()
+#8 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(1220): Illuminate\Foundation\Http\Kernel->handle()
+#9 /home/amarsmsb/expense.innovativeitbd.com/public/index.php(20): Illuminate\Foundation\Application->handleRequest()
+#10 {main}
+  thrown in /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php on line 360
+[17-Nov-2025 06:26:18 UTC] PHP Fatal error:  Uncaught RuntimeException: A facade root has not been set. in /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php:360
+Stack trace:
+#0 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/RegisterErrorViewPaths.php(17): Illuminate\Support\Facades\Facade::__callStatic()
+#1 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(947): Illuminate\Foundation\Exceptions\RegisterErrorViewPaths->__invoke()
+#2 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(922): Illuminate\Foundation\Exceptions\Handler->registerErrorViewPaths()
+#3 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(847): Illuminate\Foundation\Exceptions\Handler->renderHttpException()
+#4 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(738): Illuminate\Foundation\Exceptions\Handler->prepareResponse()
+#5 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(626): Illuminate\Foundation\Exceptions\Handler->renderExceptionResponse()
+#6 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(574): Illuminate\Foundation\Exceptions\Handler->render()
+#7 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(148): Illuminate\Foundation\Http\Kernel->renderException()
+#8 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(1220): Illuminate\Foundation\Http\Kernel->handle()
+#9 /home/amarsmsb/expense.innovativeitbd.com/public/index.php(20): Illuminate\Foundation\Application->handleRequest()
+#10 {main}
+  thrown in /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php on line 360
+[17-Nov-2025 06:26:19 UTC] PHP Fatal error:  Uncaught RuntimeException: A facade root has not been set. in /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php:360
+Stack trace:
+#0 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/RegisterErrorViewPaths.php(17): Illuminate\Support\Facades\Facade::__callStatic()
+#1 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(947): Illuminate\Foundation\Exceptions\RegisterErrorViewPaths->__invoke()
+#2 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(922): Illuminate\Foundation\Exceptions\Handler->registerErrorViewPaths()
+#3 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(847): Illuminate\Foundation\Exceptions\Handler->renderHttpException()
+#4 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(738): Illuminate\Foundation\Exceptions\Handler->prepareResponse()
+#5 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(626): Illuminate\Foundation\Exceptions\Handler->renderExceptionResponse()
+#6 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(574): Illuminate\Foundation\Exceptions\Handler->render()
+#7 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(148): Illuminate\Foundation\Http\Kernel->renderException()
+#8 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(1220): Illuminate\Foundation\Http\Kernel->handle()
+#9 /home/amarsmsb/expense.innovativeitbd.com/public/index.php(20): Illuminate\Foundation\Application->handleRequest()
+#10 {main}
+  thrown in /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php on line 360
+[17-Nov-2025 06:26:32 UTC] PHP Fatal error:  Uncaught RuntimeException: A facade root has not been set. in /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php:360
+Stack trace:
+#0 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/RegisterErrorViewPaths.php(17): Illuminate\Support\Facades\Facade::__callStatic()
+#1 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(947): Illuminate\Foundation\Exceptions\RegisterErrorViewPaths->__invoke()
+#2 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(922): Illuminate\Foundation\Exceptions\Handler->registerErrorViewPaths()
+#3 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(847): Illuminate\Foundation\Exceptions\Handler->renderHttpException()
+#4 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(738): Illuminate\Foundation\Exceptions\Handler->prepareResponse()
+#5 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(626): Illuminate\Foundation\Exceptions\Handler->renderExceptionResponse()
+#6 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(574): Illuminate\Foundation\Exceptions\Handler->render()
+#7 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(148): Illuminate\Foundation\Http\Kernel->renderException()
+#8 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(1220): Illuminate\Foundation\Http\Kernel->handle()
+#9 /home/amarsmsb/expense.innovativeitbd.com/public/index.php(20): Illuminate\Foundation\Application->handleRequest()
+#10 {main}
+  thrown in /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php on line 360
+[17-Nov-2025 06:26:34 UTC] PHP Fatal error:  Uncaught RuntimeException: A facade root has not been set. in /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php:360
+Stack trace:
+#0 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/RegisterErrorViewPaths.php(17): Illuminate\Support\Facades\Facade::__callStatic()
+#1 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(947): Illuminate\Foundation\Exceptions\RegisterErrorViewPaths->__invoke()
+#2 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(922): Illuminate\Foundation\Exceptions\Handler->registerErrorViewPaths()
+#3 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(847): Illuminate\Foundation\Exceptions\Handler->renderHttpException()
+#4 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(738): Illuminate\Foundation\Exceptions\Handler->prepareResponse()
+#5 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(626): Illuminate\Foundation\Exceptions\Handler->renderExceptionResponse()
+#6 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(574): Illuminate\Foundation\Exceptions\Handler->render()
+#7 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(148): Illuminate\Foundation\Http\Kernel->renderException()
+#8 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(1220): Illuminate\Foundation\Http\Kernel->handle()
+#9 /home/amarsmsb/expense.innovativeitbd.com/public/index.php(20): Illuminate\Foundation\Application->handleRequest()
+#10 {main}
+  thrown in /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php on line 360
+[17-Nov-2025 06:26:35 UTC] PHP Fatal error:  Uncaught RuntimeException: A facade root has not been set. in /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php:360
+Stack trace:
+#0 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/RegisterErrorViewPaths.php(17): Illuminate\Support\Facades\Facade::__callStatic()
+#1 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(947): Illuminate\Foundation\Exceptions\RegisterErrorViewPaths->__invoke()
+#2 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(922): Illuminate\Foundation\Exceptions\Handler->registerErrorViewPaths()
+#3 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(847): Illuminate\Foundation\Exceptions\Handler->renderHttpException()
+#4 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(738): Illuminate\Foundation\Exceptions\Handler->prepareResponse()
+#5 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(626): Illuminate\Foundation\Exceptions\Handler->renderExceptionResponse()
+#6 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(574): Illuminate\Foundation\Exceptions\Handler->render()
+#7 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(148): Illuminate\Foundation\Http\Kernel->renderException()
+#8 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(1220): Illuminate\Foundation\Http\Kernel->handle()
+#9 /home/amarsmsb/expense.innovativeitbd.com/public/index.php(20): Illuminate\Foundation\Application->handleRequest()
+#10 {main}
+  thrown in /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php on line 360
+[17-Nov-2025 06:26:37 UTC] PHP Fatal error:  Uncaught RuntimeException: A facade root has not been set. in /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php:360
+Stack trace:
+#0 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/RegisterErrorViewPaths.php(17): Illuminate\Support\Facades\Facade::__callStatic()
+#1 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(947): Illuminate\Foundation\Exceptions\RegisterErrorViewPaths->__invoke()
+#2 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(922): Illuminate\Foundation\Exceptions\Handler->registerErrorViewPaths()
+#3 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(847): Illuminate\Foundation\Exceptions\Handler->renderHttpException()
+#4 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(738): Illuminate\Foundation\Exceptions\Handler->prepareResponse()
+#5 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(626): Illuminate\Foundation\Exceptions\Handler->renderExceptionResponse()
+#6 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(574): Illuminate\Foundation\Exceptions\Handler->render()
+#7 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(148): Illuminate\Foundation\Http\Kernel->renderException()
+#8 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(1220): Illuminate\Foundation\Http\Kernel->handle()
+#9 /home/amarsmsb/expense.innovativeitbd.com/public/index.php(20): Illuminate\Foundation\Application->handleRequest()
+#10 {main}
+  thrown in /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php on line 360
+[17-Nov-2025 06:26:39 UTC] PHP Fatal error:  Uncaught RuntimeException: A facade root has not been set. in /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php:360
+Stack trace:
+#0 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/RegisterErrorViewPaths.php(17): Illuminate\Support\Facades\Facade::__callStatic()
+#1 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(947): Illuminate\Foundation\Exceptions\RegisterErrorViewPaths->__invoke()
+#2 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(922): Illuminate\Foundation\Exceptions\Handler->registerErrorViewPaths()
+#3 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(847): Illuminate\Foundation\Exceptions\Handler->renderHttpException()
+#4 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(738): Illuminate\Foundation\Exceptions\Handler->prepareResponse()
+#5 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(626): Illuminate\Foundation\Exceptions\Handler->renderExceptionResponse()
+#6 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(574): Illuminate\Foundation\Exceptions\Handler->render()
+#7 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(148): Illuminate\Foundation\Http\Kernel->renderException()
+#8 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(1220): Illuminate\Foundation\Http\Kernel->handle()
+#9 /home/amarsmsb/expense.innovativeitbd.com/public/index.php(20): Illuminate\Foundation\Application->handleRequest()
+#10 {main}
+  thrown in /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php on line 360
+[18-Nov-2025 03:06:51 UTC] PHP Fatal error:  Uncaught RuntimeException: A facade root has not been set. in /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php:360
+Stack trace:
+#0 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/RegisterErrorViewPaths.php(17): Illuminate\Support\Facades\Facade::__callStatic()
+#1 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(947): Illuminate\Foundation\Exceptions\RegisterErrorViewPaths->__invoke()
+#2 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(922): Illuminate\Foundation\Exceptions\Handler->registerErrorViewPaths()
+#3 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(847): Illuminate\Foundation\Exceptions\Handler->renderHttpException()
+#4 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(738): Illuminate\Foundation\Exceptions\Handler->prepareResponse()
+#5 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(626): Illuminate\Foundation\Exceptions\Handler->renderExceptionResponse()
+#6 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(574): Illuminate\Foundation\Exceptions\Handler->render()
+#7 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(148): Illuminate\Foundation\Http\Kernel->renderException()
+#8 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(1220): Illuminate\Foundation\Http\Kernel->handle()
+#9 /home/amarsmsb/expense.innovativeitbd.com/public/index.php(20): Illuminate\Foundation\Application->handleRequest()
+#10 {main}
+  thrown in /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php on line 360
+[18-Nov-2025 03:44:39 UTC] PHP Fatal error:  Uncaught RuntimeException: A facade root has not been set. in /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php:360
+Stack trace:
+#0 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/RegisterErrorViewPaths.php(17): Illuminate\Support\Facades\Facade::__callStatic()
+#1 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(947): Illuminate\Foundation\Exceptions\RegisterErrorViewPaths->__invoke()
+#2 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(922): Illuminate\Foundation\Exceptions\Handler->registerErrorViewPaths()
+#3 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(847): Illuminate\Foundation\Exceptions\Handler->renderHttpException()
+#4 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(738): Illuminate\Foundation\Exceptions\Handler->prepareResponse()
+#5 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(626): Illuminate\Foundation\Exceptions\Handler->renderExceptionResponse()
+#6 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(574): Illuminate\Foundation\Exceptions\Handler->render()
+#7 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(148): Illuminate\Foundation\Http\Kernel->renderException()
+#8 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(1220): Illuminate\Foundation\Http\Kernel->handle()
+#9 /home/amarsmsb/expense.innovativeitbd.com/public/index.php(20): Illuminate\Foundation\Application->handleRequest()
+#10 {main}
+  thrown in /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php on line 360
+[18-Nov-2025 03:44:42 UTC] PHP Fatal error:  Uncaught RuntimeException: A facade root has not been set. in /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php:360
+Stack trace:
+#0 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/RegisterErrorViewPaths.php(17): Illuminate\Support\Facades\Facade::__callStatic()
+#1 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(947): Illuminate\Foundation\Exceptions\RegisterErrorViewPaths->__invoke()
+#2 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(922): Illuminate\Foundation\Exceptions\Handler->registerErrorViewPaths()
+#3 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(847): Illuminate\Foundation\Exceptions\Handler->renderHttpException()
+#4 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(738): Illuminate\Foundation\Exceptions\Handler->prepareResponse()
+#5 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(626): Illuminate\Foundation\Exceptions\Handler->renderExceptionResponse()
+#6 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(574): Illuminate\Foundation\Exceptions\Handler->render()
+#7 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(148): Illuminate\Foundation\Http\Kernel->renderException()
+#8 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(1220): Illuminate\Foundation\Http\Kernel->handle()
+#9 /home/amarsmsb/expense.innovativeitbd.com/public/index.php(20): Illuminate\Foundation\Application->handleRequest()
+#10 {main}
+  thrown in /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php on line 360
+[18-Nov-2025 03:44:50 UTC] PHP Fatal error:  Uncaught RuntimeException: A facade root has not been set. in /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php:360
+Stack trace:
+#0 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/RegisterErrorViewPaths.php(17): Illuminate\Support\Facades\Facade::__callStatic()
+#1 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(947): Illuminate\Foundation\Exceptions\RegisterErrorViewPaths->__invoke()
+#2 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(922): Illuminate\Foundation\Exceptions\Handler->registerErrorViewPaths()
+#3 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(847): Illuminate\Foundation\Exceptions\Handler->renderHttpException()
+#4 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(738): Illuminate\Foundation\Exceptions\Handler->prepareResponse()
+#5 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(626): Illuminate\Foundation\Exceptions\Handler->renderExceptionResponse()
+#6 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(574): Illuminate\Foundation\Exceptions\Handler->render()
+#7 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(148): Illuminate\Foundation\Http\Kernel->renderException()
+#8 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(1220): Illuminate\Foundation\Http\Kernel->handle()
+#9 /home/amarsmsb/expense.innovativeitbd.com/public/index.php(20): Illuminate\Foundation\Application->handleRequest()
+#10 {main}
+  thrown in /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php on line 360
+[18-Nov-2025 03:44:51 UTC] PHP Fatal error:  Uncaught RuntimeException: A facade root has not been set. in /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php:360
+Stack trace:
+#0 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/RegisterErrorViewPaths.php(17): Illuminate\Support\Facades\Facade::__callStatic()
+#1 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(947): Illuminate\Foundation\Exceptions\RegisterErrorViewPaths->__invoke()
+#2 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(922): Illuminate\Foundation\Exceptions\Handler->registerErrorViewPaths()
+#3 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(847): Illuminate\Foundation\Exceptions\Handler->renderHttpException()
+#4 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(738): Illuminate\Foundation\Exceptions\Handler->prepareResponse()
+#5 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(626): Illuminate\Foundation\Exceptions\Handler->renderExceptionResponse()
+#6 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(574): Illuminate\Foundation\Exceptions\Handler->render()
+#7 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(148): Illuminate\Foundation\Http\Kernel->renderException()
+#8 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(1220): Illuminate\Foundation\Http\Kernel->handle()
+#9 /home/amarsmsb/expense.innovativeitbd.com/public/index.php(20): Illuminate\Foundation\Application->handleRequest()
+#10 {main}
+  thrown in /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php on line 360
+[18-Nov-2025 03:44:54 UTC] PHP Fatal error:  Uncaught RuntimeException: A facade root has not been set. in /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php:360
+Stack trace:
+#0 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/RegisterErrorViewPaths.php(17): Illuminate\Support\Facades\Facade::__callStatic()
+#1 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(947): Illuminate\Foundation\Exceptions\RegisterErrorViewPaths->__invoke()
+#2 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(922): Illuminate\Foundation\Exceptions\Handler->registerErrorViewPaths()
+#3 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(847): Illuminate\Foundation\Exceptions\Handler->renderHttpException()
+#4 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(738): Illuminate\Foundation\Exceptions\Handler->prepareResponse()
+#5 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(626): Illuminate\Foundation\Exceptions\Handler->renderExceptionResponse()
+#6 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(574): Illuminate\Foundation\Exceptions\Handler->render()
+#7 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(148): Illuminate\Foundation\Http\Kernel->renderException()
+#8 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(1220): Illuminate\Foundation\Http\Kernel->handle()
+#9 /home/amarsmsb/expense.innovativeitbd.com/public/index.php(20): Illuminate\Foundation\Application->handleRequest()
+#10 {main}
+  thrown in /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php on line 360
+[18-Nov-2025 03:51:06 UTC] PHP Fatal error:  Uncaught RuntimeException: A facade root has not been set. in /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php:360
+Stack trace:
+#0 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/RegisterErrorViewPaths.php(17): Illuminate\Support\Facades\Facade::__callStatic()
+#1 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(947): Illuminate\Foundation\Exceptions\RegisterErrorViewPaths->__invoke()
+#2 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(922): Illuminate\Foundation\Exceptions\Handler->registerErrorViewPaths()
+#3 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(847): Illuminate\Foundation\Exceptions\Handler->renderHttpException()
+#4 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(738): Illuminate\Foundation\Exceptions\Handler->prepareResponse()
+#5 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(626): Illuminate\Foundation\Exceptions\Handler->renderExceptionResponse()
+#6 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(574): Illuminate\Foundation\Exceptions\Handler->render()
+#7 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(148): Illuminate\Foundation\Http\Kernel->renderException()
+#8 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(1220): Illuminate\Foundation\Http\Kernel->handle()
+#9 /home/amarsmsb/expense.innovativeitbd.com/public/index.php(20): Illuminate\Foundation\Application->handleRequest()
+#10 {main}
+  thrown in /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php on line 360
+[18-Nov-2025 03:51:53 UTC] PHP Fatal error:  Uncaught RuntimeException: A facade root has not been set. in /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php:360
+Stack trace:
+#0 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/RegisterErrorViewPaths.php(17): Illuminate\Support\Facades\Facade::__callStatic()
+#1 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(947): Illuminate\Foundation\Exceptions\RegisterErrorViewPaths->__invoke()
+#2 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(922): Illuminate\Foundation\Exceptions\Handler->registerErrorViewPaths()
+#3 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(847): Illuminate\Foundation\Exceptions\Handler->renderHttpException()
+#4 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(738): Illuminate\Foundation\Exceptions\Handler->prepareResponse()
+#5 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(626): Illuminate\Foundation\Exceptions\Handler->renderExceptionResponse()
+#6 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(574): Illuminate\Foundation\Exceptions\Handler->render()
+#7 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(148): Illuminate\Foundation\Http\Kernel->renderException()
+#8 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(1220): Illuminate\Foundation\Http\Kernel->handle()
+#9 /home/amarsmsb/expense.innovativeitbd.com/public/index.php(20): Illuminate\Foundation\Application->handleRequest()
+#10 {main}
+  thrown in /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php on line 360
+[18-Nov-2025 05:38:54 UTC] PHP Fatal error:  Cannot use Illuminate\Support\Facades\Route as Route because the name is already in use in /home/amarsmsb/expense.innovativeitbd.com/routes/web.php on line 22
+[18-Nov-2025 09:01:27 UTC] PHP Fatal error:  Uncaught RuntimeException: A facade root has not been set. in /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php:360
+Stack trace:
+#0 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/RegisterErrorViewPaths.php(17): Illuminate\Support\Facades\Facade::__callStatic()
+#1 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(947): Illuminate\Foundation\Exceptions\RegisterErrorViewPaths->__invoke()
+#2 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(922): Illuminate\Foundation\Exceptions\Handler->registerErrorViewPaths()
+#3 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(847): Illuminate\Foundation\Exceptions\Handler->renderHttpException()
+#4 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(738): Illuminate\Foundation\Exceptions\Handler->prepareResponse()
+#5 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(626): Illuminate\Foundation\Exceptions\Handler->renderExceptionResponse()
+#6 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(574): Illuminate\Foundation\Exceptions\Handler->render()
+#7 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(148): Illuminate\Foundation\Http\Kernel->renderException()
+#8 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(1220): Illuminate\Foundation\Http\Kernel->handle()
+#9 /home/amarsmsb/expense.innovativeitbd.com/public/index.php(20): Illuminate\Foundation\Application->handleRequest()
+#10 {main}
+  thrown in /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php on line 360
+[04-Dec-2025 08:28:55 UTC] PHP Fatal error:  Uncaught RuntimeException: A facade root has not been set. in /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php:360
+Stack trace:
+#0 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/RegisterErrorViewPaths.php(17): Illuminate\Support\Facades\Facade::__callStatic()
+#1 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(947): Illuminate\Foundation\Exceptions\RegisterErrorViewPaths->__invoke()
+#2 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(922): Illuminate\Foundation\Exceptions\Handler->registerErrorViewPaths()
+#3 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(847): Illuminate\Foundation\Exceptions\Handler->renderHttpException()
+#4 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(738): Illuminate\Foundation\Exceptions\Handler->prepareResponse()
+#5 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(626): Illuminate\Foundation\Exceptions\Handler->renderExceptionResponse()
+#6 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(574): Illuminate\Foundation\Exceptions\Handler->render()
+#7 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(148): Illuminate\Foundation\Http\Kernel->renderException()
+#8 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(1220): Illuminate\Foundation\Http\Kernel->handle()
+#9 /home/amarsmsb/expense.innovativeitbd.com/public/index.php(20): Illuminate\Foundation\Application->handleRequest()
+#10 {main}
+  thrown in /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php on line 360
+[04-Dec-2025 08:30:10 UTC] PHP Fatal error:  Uncaught RuntimeException: A facade root has not been set. in /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php:360
+Stack trace:
+#0 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/RegisterErrorViewPaths.php(17): Illuminate\Support\Facades\Facade::__callStatic()
+#1 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(947): Illuminate\Foundation\Exceptions\RegisterErrorViewPaths->__invoke()
+#2 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(922): Illuminate\Foundation\Exceptions\Handler->registerErrorViewPaths()
+#3 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(847): Illuminate\Foundation\Exceptions\Handler->renderHttpException()
+#4 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(738): Illuminate\Foundation\Exceptions\Handler->prepareResponse()
+#5 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(626): Illuminate\Foundation\Exceptions\Handler->renderExceptionResponse()
+#6 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(574): Illuminate\Foundation\Exceptions\Handler->render()
+#7 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(148): Illuminate\Foundation\Http\Kernel->renderException()
+#8 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(1220): Illuminate\Foundation\Http\Kernel->handle()
+#9 /home/amarsmsb/expense.innovativeitbd.com/public/index.php(20): Illuminate\Foundation\Application->handleRequest()
+#10 {main}
+  thrown in /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php on line 360
+[04-Dec-2025 09:15:16 UTC] PHP Fatal error:  Uncaught RuntimeException: A facade root has not been set. in /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php:360
+Stack trace:
+#0 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/RegisterErrorViewPaths.php(17): Illuminate\Support\Facades\Facade::__callStatic()
+#1 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(947): Illuminate\Foundation\Exceptions\RegisterErrorViewPaths->__invoke()
+#2 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(922): Illuminate\Foundation\Exceptions\Handler->registerErrorViewPaths()
+#3 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(847): Illuminate\Foundation\Exceptions\Handler->renderHttpException()
+#4 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(738): Illuminate\Foundation\Exceptions\Handler->prepareResponse()
+#5 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(626): Illuminate\Foundation\Exceptions\Handler->renderExceptionResponse()
+#6 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(574): Illuminate\Foundation\Exceptions\Handler->render()
+#7 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(148): Illuminate\Foundation\Http\Kernel->renderException()
+#8 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(1220): Illuminate\Foundation\Http\Kernel->handle()
+#9 /home/amarsmsb/expense.innovativeitbd.com/public/index.php(20): Illuminate\Foundation\Application->handleRequest()
+#10 {main}
+  thrown in /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php on line 360
+[04-Dec-2025 09:15:33 UTC] PHP Fatal error:  Uncaught RuntimeException: A facade root has not been set. in /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php:360
+Stack trace:
+#0 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/RegisterErrorViewPaths.php(17): Illuminate\Support\Facades\Facade::__callStatic()
+#1 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(947): Illuminate\Foundation\Exceptions\RegisterErrorViewPaths->__invoke()
+#2 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(922): Illuminate\Foundation\Exceptions\Handler->registerErrorViewPaths()
+#3 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(847): Illuminate\Foundation\Exceptions\Handler->renderHttpException()
+#4 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(738): Illuminate\Foundation\Exceptions\Handler->prepareResponse()
+#5 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(626): Illuminate\Foundation\Exceptions\Handler->renderExceptionResponse()
+#6 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(574): Illuminate\Foundation\Exceptions\Handler->render()
+#7 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(148): Illuminate\Foundation\Http\Kernel->renderException()
+#8 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(1220): Illuminate\Foundation\Http\Kernel->handle()
+#9 /home/amarsmsb/expense.innovativeitbd.com/public/index.php(20): Illuminate\Foundation\Application->handleRequest()
+#10 {main}
+  thrown in /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php on line 360
+[04-Dec-2025 09:15:43 UTC] PHP Fatal error:  Uncaught RuntimeException: A facade root has not been set. in /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php:360
+Stack trace:
+#0 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/RegisterErrorViewPaths.php(17): Illuminate\Support\Facades\Facade::__callStatic()
+#1 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(947): Illuminate\Foundation\Exceptions\RegisterErrorViewPaths->__invoke()
+#2 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(922): Illuminate\Foundation\Exceptions\Handler->registerErrorViewPaths()
+#3 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(847): Illuminate\Foundation\Exceptions\Handler->renderHttpException()
+#4 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(738): Illuminate\Foundation\Exceptions\Handler->prepareResponse()
+#5 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(626): Illuminate\Foundation\Exceptions\Handler->renderExceptionResponse()
+#6 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(574): Illuminate\Foundation\Exceptions\Handler->render()
+#7 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(148): Illuminate\Foundation\Http\Kernel->renderException()
+#8 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(1220): Illuminate\Foundation\Http\Kernel->handle()
+#9 /home/amarsmsb/expense.innovativeitbd.com/public/index.php(20): Illuminate\Foundation\Application->handleRequest()
+#10 {main}
+  thrown in /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php on line 360
+[04-Dec-2025 09:15:46 UTC] PHP Fatal error:  Uncaught RuntimeException: A facade root has not been set. in /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php:360
+Stack trace:
+#0 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/RegisterErrorViewPaths.php(17): Illuminate\Support\Facades\Facade::__callStatic()
+#1 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(947): Illuminate\Foundation\Exceptions\RegisterErrorViewPaths->__invoke()
+#2 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(922): Illuminate\Foundation\Exceptions\Handler->registerErrorViewPaths()
+#3 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(847): Illuminate\Foundation\Exceptions\Handler->renderHttpException()
+#4 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(738): Illuminate\Foundation\Exceptions\Handler->prepareResponse()
+#5 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(626): Illuminate\Foundation\Exceptions\Handler->renderExceptionResponse()
+#6 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(574): Illuminate\Foundation\Exceptions\Handler->render()
+#7 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(148): Illuminate\Foundation\Http\Kernel->renderException()
+#8 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(1220): Illuminate\Foundation\Http\Kernel->handle()
+#9 /home/amarsmsb/expense.innovativeitbd.com/public/index.php(20): Illuminate\Foundation\Application->handleRequest()
+#10 {main}
+  thrown in /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php on line 360
+[04-Dec-2025 09:15:56 UTC] PHP Fatal error:  Uncaught RuntimeException: A facade root has not been set. in /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php:360
+Stack trace:
+#0 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/RegisterErrorViewPaths.php(17): Illuminate\Support\Facades\Facade::__callStatic()
+#1 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(947): Illuminate\Foundation\Exceptions\RegisterErrorViewPaths->__invoke()
+#2 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(922): Illuminate\Foundation\Exceptions\Handler->registerErrorViewPaths()
+#3 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(847): Illuminate\Foundation\Exceptions\Handler->renderHttpException()
+#4 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(738): Illuminate\Foundation\Exceptions\Handler->prepareResponse()
+#5 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(626): Illuminate\Foundation\Exceptions\Handler->renderExceptionResponse()
+#6 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(574): Illuminate\Foundation\Exceptions\Handler->render()
+#7 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(148): Illuminate\Foundation\Http\Kernel->renderException()
+#8 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(1220): Illuminate\Foundation\Http\Kernel->handle()
+#9 /home/amarsmsb/expense.innovativeitbd.com/public/index.php(20): Illuminate\Foundation\Application->handleRequest()
+#10 {main}
+  thrown in /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php on line 360
+[04-Dec-2025 09:16:01 UTC] PHP Fatal error:  Uncaught RuntimeException: A facade root has not been set. in /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php:360
+Stack trace:
+#0 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/RegisterErrorViewPaths.php(17): Illuminate\Support\Facades\Facade::__callStatic()
+#1 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(947): Illuminate\Foundation\Exceptions\RegisterErrorViewPaths->__invoke()
+#2 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(922): Illuminate\Foundation\Exceptions\Handler->registerErrorViewPaths()
+#3 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(847): Illuminate\Foundation\Exceptions\Handler->renderHttpException()
+#4 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(738): Illuminate\Foundation\Exceptions\Handler->prepareResponse()
+#5 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(626): Illuminate\Foundation\Exceptions\Handler->renderExceptionResponse()
+#6 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(574): Illuminate\Foundation\Exceptions\Handler->render()
+#7 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(148): Illuminate\Foundation\Http\Kernel->renderException()
+#8 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(1220): Illuminate\Foundation\Http\Kernel->handle()
+#9 /home/amarsmsb/expense.innovativeitbd.com/public/index.php(20): Illuminate\Foundation\Application->handleRequest()
+#10 {main}
+  thrown in /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php on line 360
+[07-Dec-2025 05:33:53 UTC] PHP Fatal error:  Uncaught RuntimeException: A facade root has not been set. in /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php:360
+Stack trace:
+#0 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/RegisterErrorViewPaths.php(17): Illuminate\Support\Facades\Facade::__callStatic()
+#1 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(947): Illuminate\Foundation\Exceptions\RegisterErrorViewPaths->__invoke()
+#2 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(922): Illuminate\Foundation\Exceptions\Handler->registerErrorViewPaths()
+#3 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(847): Illuminate\Foundation\Exceptions\Handler->renderHttpException()
+#4 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(738): Illuminate\Foundation\Exceptions\Handler->prepareResponse()
+#5 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(626): Illuminate\Foundation\Exceptions\Handler->renderExceptionResponse()
+#6 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(574): Illuminate\Foundation\Exceptions\Handler->render()
+#7 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(148): Illuminate\Foundation\Http\Kernel->renderException()
+#8 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(1220): Illuminate\Foundation\Http\Kernel->handle()
+#9 /home/amarsmsb/expense.innovativeitbd.com/public/index.php(20): Illuminate\Foundation\Application->handleRequest()
+#10 {main}
+  thrown in /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php on line 360
+[07-Dec-2025 05:34:26 UTC] PHP Fatal error:  Uncaught RuntimeException: A facade root has not been set. in /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php:360
+Stack trace:
+#0 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/RegisterErrorViewPaths.php(17): Illuminate\Support\Facades\Facade::__callStatic()
+#1 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(947): Illuminate\Foundation\Exceptions\RegisterErrorViewPaths->__invoke()
+#2 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(922): Illuminate\Foundation\Exceptions\Handler->registerErrorViewPaths()
+#3 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(847): Illuminate\Foundation\Exceptions\Handler->renderHttpException()
+#4 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(738): Illuminate\Foundation\Exceptions\Handler->prepareResponse()
+#5 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(626): Illuminate\Foundation\Exceptions\Handler->renderExceptionResponse()
+#6 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(574): Illuminate\Foundation\Exceptions\Handler->render()
+#7 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(148): Illuminate\Foundation\Http\Kernel->renderException()
+#8 /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(1220): Illuminate\Foundation\Http\Kernel->handle()
+#9 /home/amarsmsb/expense.innovativeitbd.com/public/index.php(20): Illuminate\Foundation\Application->handleRequest()
+#10 {main}
+  thrown in /home/amarsmsb/expense.innovativeitbd.com/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php on line 360
